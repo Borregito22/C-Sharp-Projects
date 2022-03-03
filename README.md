@@ -1,4 +1,4 @@
 # C-Sharp-Projects
 
 ## Introduction
-This repository will contain projects created from my C# course at The Tech Academy.
+This repository will contain projects created for my C# course at The Tech Academy.
