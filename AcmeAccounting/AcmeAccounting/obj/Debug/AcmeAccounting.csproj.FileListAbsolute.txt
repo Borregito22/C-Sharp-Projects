@@ -1,0 +1,7 @@
+C:\Users\niels\Documents\The Tech Academy\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe.config
+C:\Users\niels\Documents\The Tech Academy\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe
+C:\Users\niels\Documents\The Tech Academy\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.pdb
+C:\Users\niels\Documents\The Tech Academy\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.csproj.AssemblyReference.cache
+C:\Users\niels\Documents\The Tech Academy\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\niels\Documents\The Tech Academy\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.exe
+C:\Users\niels\Documents\The Tech Academy\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.pdb
