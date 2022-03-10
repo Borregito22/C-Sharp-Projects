@@ -1,0 +1,7 @@
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MathOperators\MathOperators\bin\Debug\MathOperators.exe.config
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MathOperators\MathOperators\bin\Debug\MathOperators.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MathOperators\MathOperators\bin\Debug\MathOperators.pdb
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MathOperators\MathOperators\obj\Debug\MathOperators.csproj.AssemblyReference.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MathOperators\MathOperators\obj\Debug\MathOperators.csproj.CoreCompileInputs.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MathOperators\MathOperators\obj\Debug\MathOperators.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MathOperators\MathOperators\obj\Debug\MathOperators.pdb
