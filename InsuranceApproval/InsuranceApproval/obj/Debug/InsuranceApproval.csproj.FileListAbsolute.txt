@@ -1,0 +1,7 @@
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe.config
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.pdb
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.AssemblyReference.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.pdb
