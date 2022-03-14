@@ -22,27 +22,15 @@ namespace ShippingQuote
 
             Console.WriteLine("Please enter the package width:"); // Prompts user to enter package width
             int width = Convert.ToInt32(Console.ReadLine()); // Converts input to an Int and stores it as width
-            if (width > 50) // This block of code will be run if width is over 50
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
-                Console.ReadLine();
-                Environment.Exit(0); // Closes console to prevent program from continuing
-            }
 
             Console.WriteLine("Please enter the package height:"); // Prompts user to enter package height
             int height = Convert.ToInt32(Console.ReadLine()); // Converts input to an Int and stores it as hieght
-            if (height > 50) // This block of code will be run if height is over 50
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
-                Console.ReadLine();
-                Environment.Exit(0); // Closes console to prevent program from continuing
-            }
 
             Console.WriteLine("Please enter the package length:"); // Prompts user to enter package length
             int length = Convert.ToInt32(Console.ReadLine()); // Converts input to an Int and stores it as length
-            if (length > 50) // This block of code will be run if length is over 50
+            if (width + height + length > 50) // Functions that checks if dimensions are greater than 50. If greater, this block of code will be executed
             {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
+                Console.WriteLine("Package too big to be shipped via Package Express."); // Prompts user that package is too big.
                 Console.ReadLine();
                 Environment.Exit(0); // Closes console to prevent program from continuing
             }
