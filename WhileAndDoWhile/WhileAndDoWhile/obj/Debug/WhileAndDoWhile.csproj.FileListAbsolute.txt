@@ -1,0 +1,7 @@
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\WhileAndDoWhile.exe.config
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\WhileAndDoWhile.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\WhileAndDoWhile.pdb
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\WhileAndDoWhile.csproj.AssemblyReference.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\WhileAndDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\WhileAndDoWhile.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\WhileAndDoWhile.pdb
