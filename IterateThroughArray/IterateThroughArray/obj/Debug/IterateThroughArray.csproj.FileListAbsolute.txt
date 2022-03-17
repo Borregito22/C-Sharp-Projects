@@ -1,0 +1,7 @@
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\IterateThroughArray\IterateThroughArray\bin\Debug\IterateThroughArray.exe.config
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\IterateThroughArray\IterateThroughArray\bin\Debug\IterateThroughArray.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\IterateThroughArray\IterateThroughArray\bin\Debug\IterateThroughArray.pdb
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\IterateThroughArray\IterateThroughArray\obj\Debug\IterateThroughArray.csproj.AssemblyReference.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\IterateThroughArray\IterateThroughArray\obj\Debug\IterateThroughArray.csproj.CoreCompileInputs.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\IterateThroughArray\IterateThroughArray\obj\Debug\IterateThroughArray.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\IterateThroughArray\IterateThroughArray\obj\Debug\IterateThroughArray.pdb
