@@ -10,6 +10,7 @@ namespace MainMethod
     {
         static void Main(string[] args)
         {
+            Math SimpleFunction = new Math(); // Instantiates the class
             int input = 35; // Creates int variable
             Console.WriteLine(input + " plus fifteen equals " + Math.SimpleFunction(input)); // Pulls method SimpleFunction from class Math and uses input as parameter
             Console.ReadLine();
