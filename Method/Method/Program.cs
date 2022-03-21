@@ -21,13 +21,15 @@ namespace Method
             if (int.TryParse(Console.ReadLine(), out input2)) // Checks to see if user entered anything
             {
                 result = math.OptionalParameterFunction(num1: input, num2: input2); // Passes both input and input2 as parameters
+                Console.WriteLine(input + " multiplied by " + input2 + " equals " + result);
+
             }
             else
             {
                 result = math.OptionalParameterFunction(input); // Only uses input as parameter and uses default value for input2
-            }
+                Console.WriteLine(input + " multiplied by " + "seven" + " equals " + result);
 
-            Console.WriteLine(input + " multiplied by " + input2 + " equals " + result);
+            }
             Console.ReadLine();
         }
     }
