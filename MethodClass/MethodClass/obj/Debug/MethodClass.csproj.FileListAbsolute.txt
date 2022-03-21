@@ -1,0 +1,7 @@
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MethodClass\MethodClass\obj\Debug\MethodClass.csproj.AssemblyReference.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MethodClass\MethodClass\obj\Debug\MethodClass.csproj.CoreCompileInputs.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MethodClass\MethodClass\bin\Debug\MethodClass.exe.config
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MethodClass\MethodClass\bin\Debug\MethodClass.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MethodClass\MethodClass\bin\Debug\MethodClass.pdb
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MethodClass\MethodClass\obj\Debug\MethodClass.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\MethodClass\MethodClass\obj\Debug\MethodClass.pdb
