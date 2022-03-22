@@ -13,6 +13,8 @@ namespace AbstractClass
             Employee employee = new Employee() { firstName = "Sample", lastName = "Student" }; // Instantiates employee class and adds values to variables
             employee.SayName(); // Calls SayName method on new employee object
             Console.ReadLine();
+
+            employee.Quit(); // Calls Quit method on employee object
         }
     }
 }
