@@ -1,0 +1,7 @@
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Lambda2\Lambda2\bin\Debug\Lambda2.exe.config
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Lambda2\Lambda2\bin\Debug\Lambda2.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Lambda2\Lambda2\bin\Debug\Lambda2.pdb
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Lambda2\Lambda2\obj\Debug\Lambda2.csproj.AssemblyReference.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Lambda2\Lambda2\obj\Debug\Lambda2.csproj.CoreCompileInputs.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Lambda2\Lambda2\obj\Debug\Lambda2.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Lambda2\Lambda2\obj\Debug\Lambda2.pdb
