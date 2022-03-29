@@ -1,0 +1,2 @@
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
