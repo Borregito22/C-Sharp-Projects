@@ -14,21 +14,17 @@ namespace Constructors
             var developer = "Crytek"; // Creates a variable without implicit data type
 
             Construct a = new Construct(); // Calls Construct method
-            Construct b = new Construct("Robbie", "Utah"); // Calls Construct method and passes two parameters
+            Console.ReadLine();
+            //Construct b = new Construct("Robbie", "Utah"); // Calls Construct method and passes two parameters
         }
     }
     public class Construct
     {
-        public string name; 
-        public string location;
-
-        public Construct() // Constructor
+        public Construct() : this("Robbie", "Utah") // Constructor
         {
         }
         public Construct(string name, string location) // Chained Constructor
         {
-            this.name = name;
-            this.location = location;
         }
     }
 }
