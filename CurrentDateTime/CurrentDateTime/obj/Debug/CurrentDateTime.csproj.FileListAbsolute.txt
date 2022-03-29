@@ -1,0 +1,7 @@
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.csproj.AssemblyReference.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.csproj.CoreCompileInputs.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.pdb
