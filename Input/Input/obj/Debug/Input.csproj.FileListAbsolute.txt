@@ -1,0 +1,7 @@
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Input\Input\bin\Debug\Input.exe.config
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Input\Input\bin\Debug\Input.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Input\Input\bin\Debug\Input.pdb
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Input\Input\obj\Debug\Input.csproj.AssemblyReference.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Input\Input\obj\Debug\Input.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\Input\Input\obj\Debug\Input.pdb
