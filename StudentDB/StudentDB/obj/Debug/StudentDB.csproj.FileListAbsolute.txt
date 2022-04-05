@@ -1,0 +1,16 @@
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\bin\Debug\StudentDB.exe.config
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\bin\Debug\StudentDB.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\bin\Debug\StudentDB.pdb
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\bin\Debug\EntityFramework.dll
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\bin\Debug\EntityFramework.xml
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\obj\Debug\StudentDB.csproj.AssemblyReference.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\obj\Debug\StudentDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\obj\Debug\StudentDB.csproj.CoreCompileInputs.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\obj\Debug\StudentDB.csproj.CopyComplete
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\obj\Debug\StudentDB.exe
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\obj\Debug\StudentDB.pdb
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\obj\Debug\StudentDB.Migrations.InitialCreate.resources
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\obj\Debug\StudentDB.csproj.GenerateResource.cache
+C:\Users\niels\Documents\source\repos\C-Sharp-Projects\StudentDB\StudentDB\obj\Debug\StudentDB.Migrations.RemoveDateOfBirth.resources
